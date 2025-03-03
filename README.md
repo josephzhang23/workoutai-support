@@ -1,1 +1,1 @@
-# workoutai-support
+# WorkoutAI Support
